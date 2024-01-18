@@ -1,0 +1,1 @@
+Data analysis of single nuclear RNA sequencing of hippocampus from mice with APOE3_NTG_TREM2-WT (n=3), APOE3_P301S_TREM2-WT (n=3), APOE3_P301S_TREM2-R47H (n=3), APOE4_NTG_TREM2-WT (n=3), APOE4_P301S_TREM2-WT (n=3), APOE4_P301S_TREM2-R47H (n=3).
